@@ -441,13 +441,9 @@
 					<id>phoneNumber</id>
 					<iceId>contactInfoData</iceId>
 					<title>Phone Number</title>
-					<description>xxx-xxx-xxxx</description>
+					<description></description>
 					<defaultValue></defaultValue>
-					<help>&amp;lt;p&amp;gt;Type here the phone number where clients can reach you.&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;Examples:&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;090-080-0760&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;90-80-07-60&amp;lt;/p&amp;gt;
-&amp;lt;p&amp;gt;9080-0760&amp;lt;/p&amp;gt;</help>
+					<help>&amp;lt;p&amp;gt;Type here the phone number where clients can reach you.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Examples:&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;090-080-0760&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;90-80-07-60&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;9080-0760&amp;lt;/p&amp;gt;</help>
 					<properties>
 						<property>
 							<name>size</name>
