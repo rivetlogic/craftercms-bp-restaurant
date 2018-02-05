@@ -25,11 +25,11 @@
             	<h2 class="heading">${contentModel.openHoursLabel}</h2>
                 <#list contentModel.openDays.item as item>
                     <p>
-                    	${item.openDay}
+                        ${item.openDay}
                         <span>
-                            ${item.openAt?datetime?string["hh:mm:ss a"]}
+                            ${item.openAt?datetime("MM/dd/yy HH:mm")?time?string.short}
                              - 
-                            ${item.closedAt?datetime?string["hh:mm:ss a"]}
+                            ${item.closedAt?datetime("MM/dd/yy HH:mm")?time?string.short}
                         </span>
                     </p>
                 </#list>
