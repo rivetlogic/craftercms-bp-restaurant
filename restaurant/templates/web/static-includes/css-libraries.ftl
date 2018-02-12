@@ -5,3 +5,4 @@
 <link rel="stylesheet" href="static-assets/css/nivo_themes/default/default.css">
 <link rel="stylesheet" href="static-assets/css/style.css">
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto:400,500' type='text/css'>
+<link rel="stylesheet" href="/static-assets/css/alertify.min.css">

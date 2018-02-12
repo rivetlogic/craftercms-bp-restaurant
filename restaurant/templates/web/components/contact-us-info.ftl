@@ -40,7 +40,7 @@
                 <ul class="social-icon">
                     <#list contentModel.contactSocialLinks.item as item>
                         <li>
-                            <a href="#" class="fa fa-${item.socialLinkType} wow bounceIn" data-wow-delay="0.3s"></a>
+                            <a href="${item.socialLinkUrl!""}" class="fa fa-${item.socialLinkType} wow bounceIn" data-wow-delay="0.3s"></a>
                         </li>
                     </#list>
                 </ul>
