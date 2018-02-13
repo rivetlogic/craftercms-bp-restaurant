@@ -230,6 +230,7 @@ hr {
 }
 
 #gallery .food-element-container .food-element-description {
+    height: 52px;
     position: relative;
     bottom: 18px;
     padding-bottom: 12px;
@@ -237,9 +238,16 @@ hr {
 }
 
 #gallery h3 {
-    height: 20px;
+    min-height: 20px;
+    max-height: 40px;
     margin: 0;
     font-size: 18px;
+    
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 #gallery .image-container {
