@@ -221,24 +221,37 @@ hr {
     padding-bottom: 80px;
 }
 
-#gallery .col-md-4 {
+#gallery .food-element-container {
     padding-top: 52px;
 }
 
 #gallery img {
     width: 100%;
-    padding-bottom: 18px;
 }
 
-#gallery .col-md-4 div {
+#gallery .food-element-container .food-element-description {
     position: relative;
     bottom: 18px;
     padding-bottom: 12px;
+    float: left;
 }
 
 #gallery h3 {
+    height: 20px;
+    margin: 0;
     font-size: 18px;
-    line-height: 8px;
+}
+
+#gallery .image-container {
+    display: block;
+    max-height: 223px;
+    margin-bottom: 30px;
+    overflow: hidden;
+    clear: both;
+}
+
+#gallery .food-element-container:nth-child(3n+2) .image-container {
+    max-height: 528px;
 }
 
 /* contact section */
