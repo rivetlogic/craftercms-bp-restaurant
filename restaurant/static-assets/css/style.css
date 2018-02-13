@@ -179,12 +179,14 @@ hr {
 
 /* team section */
 #team {
+    padding-bottom: 88px;
     text-align: center;
 }
 
 #team h3 {
+    margin-top: 13px;
+    margin-bottom: 0px;
     font-size: 18px;
-    line-height: 4px;
 }
 
 #team h4 {
