@@ -1,7 +1,7 @@
 
 // preloader
-$(window).load(function(){
-    $('.preloader').fadeOut(1000); // set duration in brackets
+$(window).ready(function(){
+    $('.preloader').fadeOut(1000); // set duration in brackets    
 });
 
 /* HTML document is loaded. DOM is ready.
