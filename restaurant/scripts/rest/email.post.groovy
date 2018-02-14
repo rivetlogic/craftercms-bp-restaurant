@@ -14,8 +14,3 @@ if (params.message != null) {
     message = params.message
 }
 
-templateModel.name = name
-templateModel.email = email
-templateModel.message = message
-
-return "/templates/web/util/display-message.ftl"
