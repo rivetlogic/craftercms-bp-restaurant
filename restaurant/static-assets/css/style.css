@@ -192,6 +192,7 @@ hr {
 #team h4 {
     color: #5C5C5C;
     padding-top: 24px;
+    word-break: break-all;
 }
 
 #team .col-md-4 {
@@ -230,9 +231,7 @@ hr {
 }
 
 #gallery .food-element-container .food-element-description {
-    height: 52px;
-    position: relative;
-    bottom: 18px;
+    height: 82px;
     padding-bottom: 12px;
     float: left;
 }
@@ -253,13 +252,13 @@ hr {
 #gallery .image-container {
     display: block;
     max-height: 223px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     overflow: hidden;
     clear: both;
 }
 
-#gallery .food-element-container:nth-child(3n+2) .image-container {
-    max-height: 528px;
+#gallery .food-element-container.food-element-mid .image-container {
+    max-height: 538px;
 }
 
 /* contact section */
