@@ -27,7 +27,7 @@
                     <p>
                         ${item.openDay}
                         <span>
-                            ${item.openAt?datetime("MM/dd/yy HH:mm")?time?string.short}
+                            ${item.openAt?datetime("YYYY-mm-ddTHH:mm")?time?string.short}
                              - 
                             ${item.closedAt?datetime("MM/dd/yy HH:mm")?time?string.short}
                         </span>
