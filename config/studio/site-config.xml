@@ -6,8 +6,8 @@
 -->
 <site-config>
    <version>3</version>
-   <wem-project>restaurant-bp</wem-project>
-   <display-name>restaurant-bp</display-name>
+   <wem-project>{siteName}</wem-project>
+   <display-name>{siteName}</display-name>
    <default-timezone>CST5CST</default-timezone>
    <repository rootPrefix="/site"><!-- default inheritance file name -->
       <level-descriptor>crafter-level-descriptor.level.xml</level-descriptor>
