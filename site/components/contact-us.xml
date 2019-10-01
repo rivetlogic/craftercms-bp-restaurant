@@ -8,27 +8,27 @@
 	<folder-name/>
 	<internal-name>Contact Us</internal-name>
 	<title>Contact Us</title>
-	<createdDate>9/6/2017 16:36:30</createdDate>
-	<createdDate_dt>9/6/2017 16:36:30</createdDate_dt>
-	<lastModifiedDate>9/11/2017 21:21:46</lastModifiedDate>
-	<lastModifiedDate_dt>9/11/2017 21:21:46</lastModifiedDate_dt>
+	<createdDate>2017-9-6T16:36:30.000Z</createdDate>
+	<createdDate_dt>2017-9-6T16:36:30.000Z</createdDate_dt>
+	<lastModifiedDate>2017-9-11T21:21:46.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-9-11T21:21:46.000Z</lastModifiedDate_dt>
 	<nameLabel>Name</nameLabel>
 	<emailLabel>Email</emailLabel>
 	<messageLabel>Message</messageLabel>
 	<buttonLabel>send</buttonLabel>
 	<openDays>	<item>	<openDay>Sunday</openDay>
-	<openAt>09/11/2017 10:30:00</openAt>
-	<closedAt>09/11/2017 22:00:00</closedAt>
+	<openAt>2017-09-11T10:30:00.000Z</openAt>
+	<closedAt>2017-09-11T22:00:00.000Z</closedAt>
 	<openAt_tz>CST5CST</openAt_tz>
 	<closedAt_tz>CST5CST</closedAt_tz>
 	</item>	<item>	<openDay>Mon - Fri</openDay>
-	<openAt>09/11/2017 09:00:00</openAt>
-	<closedAt>09/11/2017 20:00:00</closedAt>
+	<openAt>2017-09-11T09:00:00.000Z</openAt>
+	<closedAt>2017-09-11T20:00:00.000Z</closedAt>
 	<openAt_tz>CST5CST</openAt_tz>
 	<closedAt_tz>CST5CST</closedAt_tz>
 	</item>	<item>	<openDay>Saturday</openDay>
-	<openAt>09/11/2017 11:30:00</openAt>
-	<closedAt>09/11/2017 22:30:00</closedAt>
+	<openAt>2017-09-11T11:30:00.000Z</openAt>
+	<closedAt>2017-09-11T22:30:00.000Z</closedAt>
 	<openAt_tz>CST5CST</openAt_tz>
 	<closedAt_tz>CST5CST</closedAt_tz>
 	</item></openDays>
