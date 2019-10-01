@@ -5,8 +5,8 @@
 
 -->
 <site-config>
-    <wem-project>{siteName}</wem-project>
-    <display-name>{siteName}</display-name>
+    <wem-project>restaurant-bp</wem-project>
+    <display-name>restaurant-bp</display-name>
     <default-timezone>CST5CST</default-timezone>
 
     <repository rootPrefix="/site">
