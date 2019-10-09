@@ -4,13 +4,13 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>f00a</objectGroupId>
 	<objectId>f00afdd0-bf97-55b7-5b9b-2f5287b1ae4a</objectId>
-	<teamMembers_o>	<item>	<employeeName>Thanya</employeeName>
+	<teamMembers_o>	<item>	<employeeName_t>Thanya</employeeName_t>
 	<jobTitle>Main Chef</jobTitle>
 	<employeePhoto>/static-assets/images/team1.jpg</employeePhoto>
-	</item>	<item>	<employeeName>Lynda</employeeName>
+	</item>	<item>	<employeeName_t>Lynda</employeeName_t>
 	<jobTitle>Pizza Specialist</jobTitle>
 	<employeePhoto>/static-assets/images/team2.jpg</employeePhoto>
-	</item>	<item>	<employeeName>Jenny Ko</employeeName>
+	</item>	<item>	<employeeName_t>Jenny Ko</employeeName_t>
 	<jobTitle>New Baker</jobTitle>
 	<employeePhoto>/static-assets/images/team3.jpg</employeePhoto>
 	</item></teamMembers_o>
