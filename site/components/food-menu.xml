@@ -12,7 +12,7 @@
 	<createdDate_dt>2017-9-5T17:39:46.000Z</createdDate_dt>
 	<lastModifiedDate>2017-9-11T22:52:28.000Z</lastModifiedDate>
 	<lastModifiedDate_dt>2017-9-11T22:52:28.000Z</lastModifiedDate_dt>
-	<menuList>	<item>	<dishName_t>Lemon-Rosemary Vegetable</dishName_t>
+	<menuList_o>	<item>	<dishName_t>Lemon-Rosemary Vegetable</dishName_t>
 	<dishPrice>2000.50</dishPrice>
 	<dishIngredients_t>Chicken / Rosemary / Lemon</dishIngredients_t>
 	<currency>$</currency>
@@ -44,6 +44,6 @@
 	<dishPrice>2000.99</dishPrice>
 	<dishIngredients_t>Seafood / Rosemary / Lemon</dishIngredients_t>
 	<currency>€</currency>
-	</item></menuList>
+	</item></menuList_o>
 	<dishPriceCurrency_s>₡</dishPriceCurrency_s>
 </component>
