@@ -247,7 +247,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>linkLabel</id>
+               <id>linkLabel_t</id>
                <iceId>footerData</iceId>
                <title>Link Label</title>
                <description/>
