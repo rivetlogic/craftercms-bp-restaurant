@@ -4,7 +4,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>5258</objectGroupId>
 	<objectId>52583db4-8601-0b11-222e-1832be93be57</objectId>
-	<navigationItems>	<item>	<navigationItem>HOME</navigationItem>
+	<navigationItems_o>	<item>	<navigationItem>HOME</navigationItem>
 	<type>home</type>
 	<section>home</section>
 	</item>	<item>	<navigationItem>GALLERY</navigationItem>
@@ -19,7 +19,7 @@
 	</item>	<item>	<navigationItem>CONTACT</navigationItem>
 	<type>contact</type>
 	<section>contact</section>
-	</item></navigationItems>
+	</item></navigationItems_o>
 	<file-name>navigation-bar.xml</file-name>
 	<folder-name/>
 	<internal-name>Navigation Bar</internal-name>

@@ -95,7 +95,7 @@
          <fields>
             <field>
                <type>repeat</type>
-               <id>navigationItems</id>
+               <id>navigationItems_o</id>
                <iceId>navigationBar</iceId>
                <title>Navigation Items</title>
                <description/>
@@ -198,7 +198,7 @@
    <datasources>
       <datasource>
          <type>key-value-list</type>
-         <id>navigationItems</id>
+         <id>navigationItems_o</id>
          <title>Navigation Items</title>
          <interface>item</interface>
          <properties>
