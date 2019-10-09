@@ -8,7 +8,7 @@
                 <div class="ph">
                     <p>
                         <i class="fa fa-phone" id="fa-icono"></i> 
-                        ${contentModel.phoneLabel}
+                        ${contentModel.phoneLabel_t}
                     </p>
                     <h4>${contentModel.phoneNumber}</h4>
                 </div>

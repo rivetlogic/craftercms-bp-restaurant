@@ -42,7 +42,7 @@
 	<openHoursLabel>Open Hours</openHoursLabel>
 	<socialLinksTitle>Follow Us</socialLinksTitle>
 	<postURL_s>/email-controller</postURL_s>
-	<phoneLabel>Phone</phoneLabel>
+	<phoneLabel_t>Phone</phoneLabel_t>
 	<phoneNumber>090-080-0760</phoneNumber>
 	<locationLabel>Our Location</locationLabel>
 	<location>120 Duis aute irure, California, USA</location>

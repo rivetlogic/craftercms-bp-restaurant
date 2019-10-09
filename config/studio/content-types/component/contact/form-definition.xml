@@ -403,7 +403,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>phoneLabel</id>
+               <id>phoneLabel_t</id>
                <iceId>contactInfoData</iceId>
                <title>Phone Label</title>
                <description/>
