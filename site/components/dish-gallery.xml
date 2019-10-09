@@ -4,7 +4,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>1cf9</objectGroupId>
 	<objectId>1cf969b6-8e81-7d4e-77d6-0f06e19a3f49</objectId>
-	<dishList>	<item>	<dishComponent>		<item><key>/site/components/dish.xml</key>
+	<dishList_o>	<item>	<dishComponent>		<item><key>/site/components/dish.xml</key>
 <value>Dish</value>
 <include>/site/components/dish.xml</include>
 <disableFlattening>false</disableFlattening>
@@ -24,7 +24,7 @@
 	</item>	<item>	<dishName>Lemon-Rosemary Prawn</dishName>
 	<dishIngredients>Seafood / Shrimp / Lemon</dishIngredients>
 	<dishImage>/static-assets/images/gallery-img4.jpg</dishImage>
-	</item></dishList>
+	</item></dishList_o>
 	<internal-name>Food Gallery</internal-name>
 	<title_t>Food Gallery</title_t>
 	<file-name>dish-gallery.xml</file-name>

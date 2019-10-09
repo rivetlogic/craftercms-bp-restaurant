@@ -9,7 +9,7 @@
         </div>
         <div class="row">
             <#assign breaker = 0 />
-            <#list contentModel.dishList.item as dishItem>
+            <#list contentModel.dishList_o.item as dishItem>
                 <#if dishItem?index == (0 + breaker) || dishItem?index == (2 + breaker) || dishItem?index == (3 + breaker) >
                     <#assign midClass = "" />
                     <#if dishItem?index == (2 + breaker) >

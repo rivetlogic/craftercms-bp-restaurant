@@ -138,7 +138,7 @@
             </field>
             <field>
                <type>repeat</type>
-               <id>dishList</id>
+               <id>dishList_o</id>
                <iceId>dishGallery</iceId>
                <title>Dish List</title>
                <description/>
