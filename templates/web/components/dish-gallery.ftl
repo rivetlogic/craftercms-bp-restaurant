@@ -22,7 +22,7 @@
                 </a>
                 
                 <div class="food-element-description">
-                  <h3>${dishItem.dishName}</h3>
+                  <h3>${dishItem.dishName_t}</h3>
                   <span>${dishItem.dishIngredients}</span>
                 </div>
                 

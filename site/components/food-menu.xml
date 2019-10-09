@@ -12,35 +12,35 @@
 	<createdDate_dt>2017-9-5T17:39:46.000Z</createdDate_dt>
 	<lastModifiedDate>2017-9-11T22:52:28.000Z</lastModifiedDate>
 	<lastModifiedDate_dt>2017-9-11T22:52:28.000Z</lastModifiedDate_dt>
-	<menuList>	<item>	<dishName>Lemon-Rosemary Vegetable</dishName>
+	<menuList>	<item>	<dishName_t>Lemon-Rosemary Vegetable</dishName_t>
 	<dishPrice>2000.50</dishPrice>
 	<dishIngredients>Chicken / Rosemary / Lemon</dishIngredients>
 	<currency>$</currency>
-	</item>	<item>	<dishName>Lemon-Rosemary Meat</dishName>
+	</item>	<item>	<dishName_t>Lemon-Rosemary Meat</dishName_t>
 	<dishPrice>3000.50</dishPrice>
 	<dishIngredients>Meat / Rosemary / Lemon</dishIngredients>
 	<currency>₡</currency>
-	</item>	<item>	<dishName>Lemon-Rosemary Pork </dishName>
+	</item>	<item>	<dishName_t>Lemon-Rosemary Pork </dishName_t>
 	<dishPrice>4000.75</dishPrice>
 	<dishIngredients>Pork / Tooplate / Lemon</dishIngredients>
 	<currency>£</currency>
-	</item>	<item>	<dishName>Orange-Rosemary Salad</dishName>
+	</item>	<item>	<dishName_t>Orange-Rosemary Salad</dishName_t>
 	<dishPrice>5500.00</dishPrice>
 	<dishIngredients>Salad / Rosemary / Orange</dishIngredients>
 	<currency>€</currency>
-	</item>	<item>	<dishName>Lemon-Rosemary Squid</dishName>
+	</item>	<item>	<dishName_t>Lemon-Rosemary Squid</dishName_t>
 	<dishPrice>6500.00</dishPrice>
 	<dishIngredients>Squid / Rosemary / Lemon</dishIngredients>
 	<currency>₡</currency>
-	</item>	<item>	<dishName>Orange-Rosemary Shrimp</dishName>
+	</item>	<item>	<dishName_t>Orange-Rosemary Shrimp</dishName_t>
 	<dishPrice>7000.50</dishPrice>
 	<dishIngredients>Shrimp / Rosemary / Orange</dishIngredients>
 	<currency>₡</currency>
-	</item>	<item>	<dishName>Lemon-Rosemary Prawn</dishName>
+	</item>	<item>	<dishName_t>Lemon-Rosemary Prawn</dishName_t>
 	<dishPrice>11000.75</dishPrice>
 	<dishIngredients>Chicken / Rosemary / Lemon</dishIngredients>
 	<currency>£</currency>
-	</item>	<item>	<dishName>Lemon-Rosemary Seafood</dishName>
+	</item>	<item>	<dishName_t>Lemon-Rosemary Seafood</dishName_t>
 	<dishPrice>2000.99</dishPrice>
 	<dishIngredients>Seafood / Rosemary / Lemon</dishIngredients>
 	<currency>€</currency>

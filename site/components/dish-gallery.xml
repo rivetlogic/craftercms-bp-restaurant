@@ -9,19 +9,19 @@
 <include>/site/components/dish.xml</include>
 <disableFlattening>false</disableFlattening>
 		</item></dishComponent>
-	<dishName>Lemon-Rosemary Prawn</dishName>
+	<dishName_t>Lemon-Rosemary Prawn</dishName_t>
 	<dishIngredients>Seafood / Shrimp / Lemon</dishIngredients>
 	<dishImage>/static-assets/images/gallery-img2.jpg</dishImage>
-	</item>	<item>	<dishName>Lemon-Rosemary Prawn</dishName>
+	</item>	<item>	<dishName_t>Lemon-Rosemary Prawn</dishName_t>
 	<dishIngredients>Seafood / Shrimp / Lemon</dishIngredients>
 	<dishImage>/static-assets/images/gallery-img1.jpg</dishImage>
-	</item>	<item>	<dishName>Lemon-Rosemary Prawn</dishName>
+	</item>	<item>	<dishName_t>Lemon-Rosemary Prawn</dishName_t>
 	<dishIngredients>Seafood / Shrimp / Lemon</dishIngredients>
 	<dishImage>/static-assets/images/gallery-img3.jpg</dishImage>
-	</item>	<item>	<dishName>Lemon-Rosemary Prawn</dishName>
+	</item>	<item>	<dishName_t>Lemon-Rosemary Prawn</dishName_t>
 	<dishIngredients>Seafood / Shrimp / Lemon</dishIngredients>
 	<dishImage>/static-assets/images/gallery-img4.jpg</dishImage>
-	</item>	<item>	<dishName>Lemon-Rosemary Prawn</dishName>
+	</item>	<item>	<dishName_t>Lemon-Rosemary Prawn</dishName_t>
 	<dishIngredients>Seafood / Shrimp / Lemon</dishIngredients>
 	<dishImage>/static-assets/images/gallery-img4.jpg</dishImage>
 	</item></dishList_o>

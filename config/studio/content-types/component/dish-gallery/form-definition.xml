@@ -159,7 +159,7 @@
                <fields>
                   <field>
                      <type>input</type>
-                     <id>dishName</id>
+                     <id>dishName_t</id>
                      <iceId/>
                      <title>Dish Name</title>
                      <description/>
