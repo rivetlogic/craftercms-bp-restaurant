@@ -11,19 +11,19 @@
 		</item></dishComponent>
 	<dishName_t>Lemon-Rosemary Prawn</dishName_t>
 	<dishIngredients_t>Seafood / Shrimp / Lemon</dishIngredients_t>
-	<dishImage>/static-assets/images/gallery-img2.jpg</dishImage>
+	<dishImage_s>/static-assets/images/gallery-img2.jpg</dishImage_s>
 	</item>	<item>	<dishName_t>Lemon-Rosemary Prawn</dishName_t>
 	<dishIngredients_t>Seafood / Shrimp / Lemon</dishIngredients_t>
-	<dishImage>/static-assets/images/gallery-img1.jpg</dishImage>
+	<dishImage_s>/static-assets/images/gallery-img1.jpg</dishImage_s>
 	</item>	<item>	<dishName_t>Lemon-Rosemary Prawn</dishName_t>
 	<dishIngredients_t>Seafood / Shrimp / Lemon</dishIngredients_t>
-	<dishImage>/static-assets/images/gallery-img3.jpg</dishImage>
+	<dishImage_s>/static-assets/images/gallery-img3.jpg</dishImage_s>
 	</item>	<item>	<dishName_t>Lemon-Rosemary Prawn</dishName_t>
 	<dishIngredients_t>Seafood / Shrimp / Lemon</dishIngredients_t>
-	<dishImage>/static-assets/images/gallery-img4.jpg</dishImage>
+	<dishImage_s>/static-assets/images/gallery-img4.jpg</dishImage_s>
 	</item>	<item>	<dishName_t>Lemon-Rosemary Prawn</dishName_t>
 	<dishIngredients_t>Seafood / Shrimp / Lemon</dishIngredients_t>
-	<dishImage>/static-assets/images/gallery-img4.jpg</dishImage>
+	<dishImage_s>/static-assets/images/gallery-img4.jpg</dishImage_s>
 	</item></dishList_o>
 	<internal-name>Food Gallery</internal-name>
 	<title_t>Food Gallery</title_t>

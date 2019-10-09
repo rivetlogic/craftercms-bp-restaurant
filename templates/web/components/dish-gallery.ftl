@@ -17,8 +17,8 @@
                     </#if>
                     <div class="col-md-4 col-sm-4 wow fadeInUp food-element-container ${midClass}" data-wow-delay="0.3s">
                 </#if>
-                <a class="image-container" href="${dishItem.dishImage}" data-lightbox-gallery="zenda-gallery">
-                  <img src="${dishItem.dishImage}" alt="gallery img">
+                <a class="image-container" href="${dishItem.dishImage_s}" data-lightbox-gallery="zenda-gallery">
+                  <img src="${dishItem.dishImage_s}" alt="gallery img">
                 </a>
                 
                 <div class="food-element-description">
