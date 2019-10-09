@@ -898,7 +898,7 @@
                <fields>
                   <field>
                      <type>dropdown</type>
-                     <id>socialLinkType</id>
+                     <id>socialLinkType_s</id>
                      <iceId/>
                      <title>Social Link Type</title>
                      <description/>

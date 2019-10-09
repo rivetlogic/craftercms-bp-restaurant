@@ -32,11 +32,11 @@
 	<openAt_tz>CST5CST</openAt_tz>
 	<closedAt_tz>CST5CST</closedAt_tz>
 	</item></openDays_o>
-	<contactSocialLinks_o>	<item>	<socialLinkType>facebook</socialLinkType>
-	</item>	<item>	<socialLinkType>twitter</socialLinkType>
-	</item>	<item>	<socialLinkType>behance</socialLinkType>
-	</item>	<item>	<socialLinkType>dribbble</socialLinkType>
-	</item>	<item>	<socialLinkType>github</socialLinkType>
+	<contactSocialLinks_o>	<item>	<socialLinkType_s>facebook</socialLinkType_s>
+	</item>	<item>	<socialLinkType_s>twitter</socialLinkType_s>
+	</item>	<item>	<socialLinkType_s>behance</socialLinkType_s>
+	</item>	<item>	<socialLinkType_s>dribbble</socialLinkType_s>
+	</item>	<item>	<socialLinkType_s>github</socialLinkType_s>
 	</item></contactSocialLinks_o>
 	<contactInfoLabel_t>Contact Info.</contactInfoLabel_t>
 	<openHoursLabel_t>Open Hours</openHoursLabel_t>
