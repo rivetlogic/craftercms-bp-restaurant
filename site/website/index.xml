@@ -33,11 +33,11 @@
 	<include>/site/components/team.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></teamMembers_o>
-	<contactUs>	<item>	<key>/site/components/contact-us.xml</key>
+	<contactUs_o>	<item>	<key>/site/components/contact-us.xml</key>
 	<value>Contact Us</value>
 	<include>/site/components/contact-us.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item></contactUs>
+	</item></contactUs_o>
 	<homepageImage>/static-assets/images/home-bg.jpg</homepageImage>
 	<menuBar>	<item>	<key>/site/components/navigation-bar.xml</key>
 	<value>Navigation Bar</value>

@@ -276,7 +276,7 @@
             </field>
             <field>
                <type>node-selector</type>
-               <id>contactUs</id>
+               <id>contactUs_o</id>
                <iceId/>
                <title>Contact Us</title>
                <description/>

@@ -60,7 +60,7 @@
         <@renderComponent component = contentModel.teamMembers_o.item />
 
 		<!-- Contact us section -->
-		<@renderComponent component = contentModel.contactUs.item />
+		<@renderComponent component = contentModel.contactUs_o.item />
 
         <!-- Copyright section -->
         <section id="copyright">
