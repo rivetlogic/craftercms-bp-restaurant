@@ -181,7 +181,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>emailLabel</id>
+               <id>emailLabel_t</id>
                <iceId>contactUsData</iceId>
                <title>Email Label</title>
                <description/>
