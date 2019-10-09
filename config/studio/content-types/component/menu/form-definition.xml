@@ -278,7 +278,7 @@
                   </field>
                   <field>
                      <type>input</type>
-                     <id>dishIngredients</id>
+                     <id>dishIngredients_t</id>
                      <iceId/>
                      <title>Dish Ingredients</title>
                      <description/>

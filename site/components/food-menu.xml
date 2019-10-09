@@ -14,35 +14,35 @@
 	<lastModifiedDate_dt>2017-9-11T22:52:28.000Z</lastModifiedDate_dt>
 	<menuList>	<item>	<dishName_t>Lemon-Rosemary Vegetable</dishName_t>
 	<dishPrice>2000.50</dishPrice>
-	<dishIngredients>Chicken / Rosemary / Lemon</dishIngredients>
+	<dishIngredients_t>Chicken / Rosemary / Lemon</dishIngredients_t>
 	<currency>$</currency>
 	</item>	<item>	<dishName_t>Lemon-Rosemary Meat</dishName_t>
 	<dishPrice>3000.50</dishPrice>
-	<dishIngredients>Meat / Rosemary / Lemon</dishIngredients>
+	<dishIngredients_t>Meat / Rosemary / Lemon</dishIngredients_t>
 	<currency>₡</currency>
 	</item>	<item>	<dishName_t>Lemon-Rosemary Pork </dishName_t>
 	<dishPrice>4000.75</dishPrice>
-	<dishIngredients>Pork / Tooplate / Lemon</dishIngredients>
+	<dishIngredients_t>Pork / Tooplate / Lemon</dishIngredients_t>
 	<currency>£</currency>
 	</item>	<item>	<dishName_t>Orange-Rosemary Salad</dishName_t>
 	<dishPrice>5500.00</dishPrice>
-	<dishIngredients>Salad / Rosemary / Orange</dishIngredients>
+	<dishIngredients_t>Salad / Rosemary / Orange</dishIngredients_t>
 	<currency>€</currency>
 	</item>	<item>	<dishName_t>Lemon-Rosemary Squid</dishName_t>
 	<dishPrice>6500.00</dishPrice>
-	<dishIngredients>Squid / Rosemary / Lemon</dishIngredients>
+	<dishIngredients_t>Squid / Rosemary / Lemon</dishIngredients_t>
 	<currency>₡</currency>
 	</item>	<item>	<dishName_t>Orange-Rosemary Shrimp</dishName_t>
 	<dishPrice>7000.50</dishPrice>
-	<dishIngredients>Shrimp / Rosemary / Orange</dishIngredients>
+	<dishIngredients_t>Shrimp / Rosemary / Orange</dishIngredients_t>
 	<currency>₡</currency>
 	</item>	<item>	<dishName_t>Lemon-Rosemary Prawn</dishName_t>
 	<dishPrice>11000.75</dishPrice>
-	<dishIngredients>Chicken / Rosemary / Lemon</dishIngredients>
+	<dishIngredients_t>Chicken / Rosemary / Lemon</dishIngredients_t>
 	<currency>£</currency>
 	</item>	<item>	<dishName_t>Lemon-Rosemary Seafood</dishName_t>
 	<dishPrice>2000.99</dishPrice>
-	<dishIngredients>Seafood / Rosemary / Lemon</dishIngredients>
+	<dishIngredients_t>Seafood / Rosemary / Lemon</dishIngredients_t>
 	<currency>€</currency>
 	</item></menuList>
 	<dishPriceCurrency>₡</dishPriceCurrency>

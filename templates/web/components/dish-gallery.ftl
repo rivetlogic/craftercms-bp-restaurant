@@ -23,7 +23,7 @@
                 
                 <div class="food-element-description">
                   <h3>${dishItem.dishName_t}</h3>
-                  <span>${dishItem.dishIngredients}</span>
+                  <span>${dishItem.dishIngredients_t}</span>
                 </div>
                 
                 <#if dishItem?index == (1 + breaker) || dishItem?index == (2 + breaker) || dishItem?index == (4 + breaker) >
