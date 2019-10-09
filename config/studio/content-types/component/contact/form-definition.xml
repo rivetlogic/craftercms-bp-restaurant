@@ -834,7 +834,7 @@
          <fields>
             <field>
                <type>input</type>
-               <id>socialLinksTitle</id>
+               <id>socialLinksTitle_t</id>
                <iceId>socialLinksData</iceId>
                <title>Social Links Title</title>
                <description/>

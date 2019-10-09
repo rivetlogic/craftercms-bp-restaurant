@@ -36,7 +36,7 @@
             </div>
             
             <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.6s" <@studio.componentAttr path=contentModel.storeUrl ice=true iceGroup="socialLinksData"/>>
-                <h2 class="heading">${contentModel.socialLinksTitle}</h2>
+                <h2 class="heading">${contentModel.socialLinksTitle_t}</h2>
                 <ul class="social-icon">
                     <#list contentModel.contactSocialLinks.item as item>
                         <li>
