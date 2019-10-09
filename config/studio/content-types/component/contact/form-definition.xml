@@ -689,7 +689,7 @@
                   </field>
                   <field>
                      <type>date-time</type>
-                     <id>openAt</id>
+                     <id>openAt_dt</id>
                      <iceId/>
                      <title>Open At</title>
                      <description>xx:xx:xx am </description>
