@@ -17,7 +17,7 @@
                         <i class="fa fa-map-marker" id="fa-icono"></i> 
                         ${contentModel.locationLabel_t}
                     </p>
-                    <h4>${contentModel.location}</h4>
+                    <h4>${contentModel.location_t}</h4>
                 </div>
             </div>
             

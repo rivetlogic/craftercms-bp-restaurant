@@ -532,7 +532,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>location</id>
+               <id>location_t</id>
                <iceId>contactInfoData</iceId>
                <title>Location</title>
                <description/>
