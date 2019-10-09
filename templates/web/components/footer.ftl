@@ -6,9 +6,9 @@
                 <h3>${contentModel.footerTitle_t}</h3>
                 <p <@studio.componentAttr path=contentModel.storeUrl ice=true iceGroup="footerData"/> >
                 ${contentModel.copyright_t}
-                <#if contentModel.showCredits?? && contentModel.showCredits == "true">
+                <#if contentModel.showCredits_b">
                 |
-                ${contentModel.creditsLabel}
+                ${contentModel.creditsLabel_t}
                 <a rel="nofollow" href="${contentModel.linkURL}" target="_parent">${contentModel.linkLabel}</a>
                 </#if>
                 </p>

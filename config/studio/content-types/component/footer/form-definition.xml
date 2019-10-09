@@ -181,7 +181,7 @@
             </field>
             <field>
                <type>checkbox</type>
-               <id>showCredits</id>
+               <id>showCredits_b</id>
                <iceId>footerData</iceId>
                <title>Show Credits</title>
                <description/>
@@ -204,7 +204,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>creditsLabel</id>
+               <id>creditsLabel_t</id>
                <iceId>footerData</iceId>
                <title>Credits Label</title>
                <description/>
