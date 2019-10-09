@@ -44,10 +44,10 @@
 	<include>/site/components/navigation-bar.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></menuBar_o>
-	<footer>	<item>	<key>/site/components/footer.xml</key>
+	<footer_o>	<item>	<key>/site/components/footer.xml</key>
 	<value>Footer</value>
 	<include>/site/components/footer.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item></footer>
+	</item></footer_o>
 	<topSiteName_t>Zentro Inc.</topSiteName_t>
 </page>

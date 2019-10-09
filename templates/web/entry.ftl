@@ -62,7 +62,7 @@
 		<@renderComponent component = contentModel.contactUs_o.item />
 
         <!-- Copyright section -->
-        <@renderComponent component = contentModel.footer.item />
+        <@renderComponent component = contentModel.footer_o.item />
         
 
         <!-- Javascript Files -->

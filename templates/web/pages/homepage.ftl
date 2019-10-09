@@ -68,7 +68,7 @@
                 <div class="row">
                     <div class="col-md-12 col-sm-12">
                         <h3>${globalSiteName}</h3>
-                        <@renderComponent component = contentModel.footer.item />
+                        <@renderComponent component = contentModel.footer_o.item />
                     </div>
                 </div>
             </div>
