@@ -536,7 +536,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>slogan</id>
+               <id>slogan_t</id>
                <iceId>homepageGroup</iceId>
                <title>Slogan</title>
                <description/>
