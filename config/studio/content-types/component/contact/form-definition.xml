@@ -138,7 +138,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>nameLabel</id>
+               <id>nameLabel_t</id>
                <iceId>contactUsData</iceId>
                <title>Name Label</title>
                <description/>

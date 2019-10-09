@@ -9,7 +9,7 @@
             <div class="col-md-offset-1 col-md-10 col-sm-12 wow fadeIn" data-wow-delay="0.9s">
                 <form action="${contentModel.postURL}" method="post" id="contact-us-form" name="contact-us-form">
                     <div class="col-md-6 col-sm-6">
-                        <input name="name" type="text" class="form-control" id="name" placeholder="${contentModel.nameLabel}" value="${''}" required>
+                        <input name="name" type="text" class="form-control" id="name" placeholder="${contentModel.nameLabel_t}" value="${''}" required>
                     </div>
                     <div class="col-md-6 col-sm-6">
                         <input name="email" type="email" class="form-control" id="email" placeholder="${contentModel.emailLabel}" value="${''}" required>
