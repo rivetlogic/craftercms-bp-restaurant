@@ -15,7 +15,7 @@
                 <div class="address">
                     <p>
                         <i class="fa fa-map-marker" id="fa-icono"></i> 
-                        ${contentModel.locationLabel}
+                        ${contentModel.locationLabel_t}
                     </p>
                     <h4>${contentModel.location}</h4>
                 </div>

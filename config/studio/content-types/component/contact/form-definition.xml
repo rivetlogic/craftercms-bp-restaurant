@@ -489,7 +489,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>locationLabel</id>
+               <id>locationLabel_t</id>
                <iceId>contactInfoData</iceId>
                <title>Location Label</title>
                <description/>
