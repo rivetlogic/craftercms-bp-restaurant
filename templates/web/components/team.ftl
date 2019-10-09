@@ -10,7 +10,7 @@
                 <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.3s">
                     <img src="${member.employeePhoto!""}" class="img-responsive center-block" alt="${member.employeeName_t}">
                     <h4>${member.employeeName_t!""}</h4>
-                    <h3>${member.jobTitle!""}</h3>
+                    <h3>${member.jobTitle_t!""}</h3>
                 </div>
             </#list>
         </div>
