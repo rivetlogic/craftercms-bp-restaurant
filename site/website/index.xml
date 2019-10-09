@@ -39,11 +39,11 @@
 	<disableFlattening>false</disableFlattening>
 	</item></contactUs_o>
 	<homepageImage>/static-assets/images/home-bg.jpg</homepageImage>
-	<menuBar>	<item>	<key>/site/components/navigation-bar.xml</key>
+	<menuBar_o>	<item>	<key>/site/components/navigation-bar.xml</key>
 	<value>Navigation Bar</value>
 	<include>/site/components/navigation-bar.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item></menuBar>
+	</item></menuBar_o>
 	<footer>	<item>	<key>/site/components/footer.xml</key>
 	<value>Footer</value>
 	<include>/site/components/footer.xml</include>

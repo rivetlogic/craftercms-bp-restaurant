@@ -390,7 +390,7 @@
             </field>
             <field>
                <type>node-selector</type>
-               <id>menuBar</id>
+               <id>menuBar_o</id>
                <iceId/>
                <title>Menu Bar</title>
                <description/>

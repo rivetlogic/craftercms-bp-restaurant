@@ -30,7 +30,7 @@
                     </button>
                     <a href="/" class="navbar-brand">${contentModel.topSiteName_t}</a>
                 </div>
-                <@renderComponent component = contentModel.menuBar.item />
+                <@renderComponent component = contentModel.menuBar_o.item />
             </div>
         </section>        
         

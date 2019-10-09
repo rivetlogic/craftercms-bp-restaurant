@@ -31,7 +31,7 @@
                     </button>
                     <a href="${contentModel.siteURL!'/'}" class="navbar-brand">${globalSiteName}</a>
                 </div>
-                <@renderComponent component = contentModel.menuBar.item />
+                <@renderComponent component = contentModel.menuBar_o.item />
             </div>
         </section>        
         

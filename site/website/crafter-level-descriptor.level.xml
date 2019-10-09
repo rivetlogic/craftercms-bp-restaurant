@@ -12,11 +12,11 @@
 	<lastModifiedDate_dt>2017-9-11T18:31:11.000Z</lastModifiedDate_dt>
 	<siteName>Zentro Inc.</siteName>
 	<siteURL>/</siteURL>
-	<menuBar>	<item>	<key>/site/components/navigation-bar.xml</key>
+	<menuBar_o>	<item>	<key>/site/components/navigation-bar.xml</key>
 	<value>Navigation Bar</value>
 	<include>/site/components/navigation-bar.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item></menuBar>
+	</item></menuBar_o>
 	<footer>	<item>	<key>/site/components/footer.xml</key>
 	<value>Footer</value>
 	<include>/site/components/footer.xml</include>
