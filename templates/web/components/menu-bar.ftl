@@ -4,7 +4,7 @@
   	<ul class="nav navbar-nav navbar-right" <@studio.componentAttr path=contentModel.storeUrl ice=true iceGroup="navigationBar"/>>
     	<#list contentModel.navigationItems_o.item as item>
             <li>
-              	<a href="#${item.section_s}" class="smoothScroll">${item.navigationItem}</a>
+              	<a href="#${item.section_s}" class="smoothScroll">${item.navigationItem_t}</a>
             </li>
     	</#list>
   	</ul>
