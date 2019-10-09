@@ -15,7 +15,7 @@
                         <input name="email" type="email" class="form-control" id="email" placeholder="${contentModel.emailLabel_t}" value="${''}" required>
                     </div>
                     <div class="col-md-12 col-sm-12">
-                        <textarea name="message" rows="8" class="form-control" id="message" placeholder="${contentModel.messageLabel}" required>${''}</textarea>
+                        <textarea name="message" rows="8" class="form-control" id="message" placeholder="${contentModel.messageLabel_t}" required>${''}</textarea>
                     </div>
                     <div class="col-md-offset-3 col-md-6 col-sm-offset-3 col-sm-6">
                         <input name="submit" type="submit" class="form-control" id="submit" value="${contentModel.buttonLabel}">
