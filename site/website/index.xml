@@ -28,11 +28,11 @@
 	<include>/site/components/food-menu.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></foodMenu_o>
-	<teamMembers>	<item>	<key>/site/components/team.xml</key>
+	<teamMembers_o>	<item>	<key>/site/components/team.xml</key>
 	<value>Team</value>
 	<include>/site/components/team.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item></teamMembers>
+	</item></teamMembers_o>
 	<contactUs>	<item>	<key>/site/components/contact-us.xml</key>
 	<value>Contact Us</value>
 	<include>/site/components/contact-us.xml</include>

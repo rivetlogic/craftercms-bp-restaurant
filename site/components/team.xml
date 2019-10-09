@@ -4,7 +4,7 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>f00a</objectGroupId>
 	<objectId>f00afdd0-bf97-55b7-5b9b-2f5287b1ae4a</objectId>
-	<teamMembers>	<item>	<employeeName>Thanya</employeeName>
+	<teamMembers_o>	<item>	<employeeName>Thanya</employeeName>
 	<jobTitle>Main Chef</jobTitle>
 	<employeePhoto>/static-assets/images/team1.jpg</employeePhoto>
 	</item>	<item>	<employeeName>Lynda</employeeName>
@@ -13,7 +13,7 @@
 	</item>	<item>	<employeeName>Jenny Ko</employeeName>
 	<jobTitle>New Baker</jobTitle>
 	<employeePhoto>/static-assets/images/team3.jpg</employeePhoto>
-	</item></teamMembers>
+	</item></teamMembers_o>
 	<internal-name>Team</internal-name>
 	<title_t>Meet Zentro chefs</title_t>
 	<file-name>team.xml</file-name>

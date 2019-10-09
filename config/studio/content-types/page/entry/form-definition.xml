@@ -228,7 +228,7 @@
             </field>
             <field>
                <type>node-selector</type>
-               <id>teamMembers</id>
+               <id>teamMembers_o</id>
                <iceId/>
                <title>Team Members</title>
                <description/>

@@ -57,7 +57,7 @@
         <@renderComponent component = contentModel.foodMenu_o.item />
 
         <!-- Team section -->
-        <@renderComponent component = contentModel.teamMembers.item />
+        <@renderComponent component = contentModel.teamMembers_o.item />
 
 		<!-- Contact us section -->
 		<@renderComponent component = contentModel.contactUs.item />
