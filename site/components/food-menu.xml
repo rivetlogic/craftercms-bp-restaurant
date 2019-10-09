@@ -45,5 +45,5 @@
 	<dishIngredients_t>Seafood / Rosemary / Lemon</dishIngredients_t>
 	<currency>€</currency>
 	</item></menuList>
-	<dishPriceCurrency>₡</dishPriceCurrency>
+	<dishPriceCurrency_s>₡</dishPriceCurrency_s>
 </component>

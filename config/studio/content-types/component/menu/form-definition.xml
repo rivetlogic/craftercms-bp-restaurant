@@ -138,7 +138,7 @@
             </field>
             <field>
                <type>dropdown</type>
-               <id>dishPriceCurrency</id>
+               <id>dishPriceCurrency_s</id>
                <iceId>foodMenu</iceId>
                <title>Dish Price Currency</title>
                <description/>
