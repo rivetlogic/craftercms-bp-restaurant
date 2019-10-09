@@ -10,7 +10,7 @@
             
             <#list contentModel.menuList_o.item as dishItem>
                 <div class="col-md-6 col-sm-6">
-                    <h4> ${dishItem.dishName_t?trim} ${dots(dishItem.dishName_t?trim, dishItem.dishPrice?trim)?trim} <span>${contentModel.dishPriceCurrency_s}${dishItem.dishPrice?trim}</span></h4>
+                    <h4> ${dishItem.dishName_t?trim} ${dots(dishItem.dishName_t?trim, dishItem.dishPrice_s?trim)?trim} <span>${contentModel.dishPrice_sCurrency_s}${dishItem.dishPrice_s?trim}</span></h4>
                     <h5>${dishItem.dishIngredients_t?trim}</h5>
                 </div>            
             </#list>

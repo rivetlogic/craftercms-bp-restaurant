@@ -235,7 +235,7 @@
                   </field>
                   <field>
                      <type>input</type>
-                     <id>dishPrice</id>
+                     <id>dishPrice_s</id>
                      <iceId/>
                      <title>DIsh Price</title>
                      <description>Price of the dish</description>
