@@ -14,7 +14,7 @@
 	<lastModifiedDate_dt>2017-9-12T15:26:7.000Z</lastModifiedDate_dt>
 	<creditsLabel_t>Design by:</creditsLabel_t>
 	<linkLabel_t>Tooplate</linkLabel_t>
-	<linkURL>http://www.tooplate.com</linkURL>
+	<linkURL_s>http://www.tooplate.com</linkURL_s>
 	<showCredits_b>true</showCredits_b>
 	<footerTitle_t>Zentro Inc.</footerTitle_t>
 </component>

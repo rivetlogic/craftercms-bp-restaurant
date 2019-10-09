@@ -9,7 +9,7 @@
                 <#if contentModel.showCredits_b">
                 |
                 ${contentModel.creditsLabel_t}
-                <a rel="nofollow" href="${contentModel.linkURL}" target="_parent">${contentModel.linkLabel_t}</a>
+                <a rel="nofollow" href="${contentModel.linkURL_s}" target="_parent">${contentModel.linkLabel_t}</a>
                 </#if>
                 </p>
             </div>

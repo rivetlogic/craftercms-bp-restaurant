@@ -290,7 +290,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>linkURL</id>
+               <id>linkURL_s</id>
                <iceId>footerData</iceId>
                <title>Link URL</title>
                <description/>
