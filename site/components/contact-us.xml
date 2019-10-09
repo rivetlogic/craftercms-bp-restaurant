@@ -15,7 +15,7 @@
 	<nameLabel_t>Name</nameLabel_t>
 	<emailLabel_t>Email</emailLabel_t>
 	<messageLabel_t>Message</messageLabel_t>
-	<buttonLabel>send</buttonLabel>
+	<buttonLabel_t>send</buttonLabel_t>
 	<openDays>	<item>	<openDay>Sunday</openDay>
 	<openAt>2017-09-11T10:30:00.000Z</openAt>
 	<closedAt>2017-09-11T22:00:00.000Z</closedAt>

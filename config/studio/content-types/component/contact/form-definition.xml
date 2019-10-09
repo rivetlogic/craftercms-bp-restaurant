@@ -267,7 +267,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>buttonLabel</id>
+               <id>buttonLabel_t</id>
                <iceId>contactUsData</iceId>
                <title>Button Label</title>
                <description/>

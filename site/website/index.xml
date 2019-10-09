@@ -16,7 +16,7 @@
 	<lastModifiedDate_dt>2017-9-12T15:25:42.000Z</lastModifiedDate_dt>
 	<title_t>Zentro Restaurant</title_t>
 	<slogan>The Best Food</slogan>
-	<buttonLabel>See More</buttonLabel>
+	<buttonLabel_t>See More</buttonLabel_t>
 	<disabled>false</disabled>
 	<dishGallery>	<item>	<key>/site/components/dish-gallery.xml</key>
 	<value>Food Gallery</value>

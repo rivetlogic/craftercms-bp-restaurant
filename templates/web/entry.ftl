@@ -43,7 +43,7 @@
                     <div class="col-md-12 col-sm-12">
                         <h1>${contentModel.title_t}</h1>
                         <h2>${contentModel.slogan}</h2>
-                        <a href="#gallery" class="smoothScroll btn btn-default">${contentModel.buttonLabel}</a>
+                        <a href="#gallery" class="smoothScroll btn btn-default">${contentModel.buttonLabel_t}</a>
                     </div>
                 </div>
             </div>
