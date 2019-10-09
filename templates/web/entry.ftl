@@ -37,7 +37,7 @@
 
 
         <!-- Home section -->
-        <section id="home" class="parallax-section" <@studio.iceAttr iceGroup="homepageGroup"/> style="background-image:url(${contentModel.homepageImage})">
+        <section id="home" class="parallax-section" <@studio.iceAttr iceGroup="homepageGroup"/> style="background-image:url(${contentModel.homepageImage_s})">
             <div class="container">
                 <div class="row"> 
                     <div class="col-md-12 col-sm-12">

@@ -38,7 +38,7 @@
 	<include>/site/components/contact-us.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></contactUs_o>
-	<homepageImage>/static-assets/images/home-bg.jpg</homepageImage>
+	<homepageImage_s>/static-assets/images/home-bg.jpg</homepageImage_s>
 	<menuBar_o>	<item>	<key>/site/components/navigation-bar.xml</key>
 	<value>Navigation Bar</value>
 	<include>/site/components/navigation-bar.xml</include>

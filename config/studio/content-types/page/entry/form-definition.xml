@@ -622,7 +622,7 @@
             </field>
             <field>
                <type>image-picker</type>
-               <id>homepageImage</id>
+               <id>homepageImage_s</id>
                <iceId>homepageGroup</iceId>
                <title>Homepage Image</title>
                <description/>
