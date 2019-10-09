@@ -26,7 +26,7 @@
 	<dishImage>/static-assets/images/gallery-img4.jpg</dishImage>
 	</item></dishList>
 	<internal-name>Food Gallery</internal-name>
-	<title>Food Gallery</title>
+	<title_t>Food Gallery</title_t>
 	<file-name>dish-gallery.xml</file-name>
 	<folder-name/>
 	<createdDate>2017-9-5T15:32:34.000Z</createdDate>

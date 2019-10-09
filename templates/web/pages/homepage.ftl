@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8" />
         <#global globalSiteName = contentModel.siteName />
-        <title>${globalSiteName}</title>
+        <title_t>${globalSiteName}</title_t>
         
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -42,7 +42,7 @@
             <div class="container">
                 <div class="row"> 
                     <div class="col-md-12 col-sm-12">
-                        <h1>${contentModel.title}</h1>
+                        <h1>${contentModel.title_t}</h1>
                         <h2>${contentModel.slogan}</h2>
                         <a href="#gallery" class="smoothScroll btn btn-default">${contentModel.buttonLabel}</a>
                     </div>

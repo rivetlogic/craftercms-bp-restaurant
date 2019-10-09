@@ -15,7 +15,7 @@
 	<employeePhoto>/static-assets/images/team3.jpg</employeePhoto>
 	</item></teamMembers>
 	<internal-name>Team</internal-name>
-	<title>Meet Zentro chefs</title>
+	<title_t>Meet Zentro chefs</title_t>
 	<file-name>team.xml</file-name>
 	<folder-name/>
 	<createdDate>2017-9-5T22:20:51.000Z</createdDate>

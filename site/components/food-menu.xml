@@ -5,7 +5,7 @@
 	<objectGroupId>fe1a</objectGroupId>
 	<objectId>fe1afa19-8c65-0938-142f-8eaa12f514dd</objectId>
 	<internal-name>Food Menu</internal-name>
-	<title>Menu</title>
+	<title_t>Menu</title_t>
 	<file-name>food-menu.xml</file-name>
 	<folder-name/>
 	<createdDate>2017-9-5T17:39:46.000Z</createdDate>

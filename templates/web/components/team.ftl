@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row" <@studio.componentAttr path=contentModel.storeUrl ice=true iceGroup="teamData"/>>
             <div class="col-md-offset-2 col-md-8 col-sm-12 text-center">
-                <h1 class="heading">${contentModel.title}</h1>
+                <h1 class="heading">${contentModel.title_t}</h1>
                 <hr>
             </div>
             <#list contentModel.teamMembers.item as member>
