@@ -22,7 +22,7 @@
             </div>
             
             <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.6s" <@studio.componentAttr path=contentModel.storeUrl ice=true iceGroup="openHoursData"/>>
-            	<h2 class="heading">${contentModel.openHoursLabel}</h2>
+            	<h2 class="heading">${contentModel.openHoursLabel_t}</h2>
                 <#list contentModel.openDays.item as item>
                     <p>
                         ${item.openDay}

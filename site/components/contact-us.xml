@@ -39,7 +39,7 @@
 	</item>	<item>	<socialLinkType>github</socialLinkType>
 	</item></contactSocialLinks>
 	<contactInfoLabel_t>Contact Info.</contactInfoLabel_t>
-	<openHoursLabel>Open Hours</openHoursLabel>
+	<openHoursLabel_t>Open Hours</openHoursLabel_t>
 	<socialLinksTitle>Follow Us</socialLinksTitle>
 	<postURL_s>/email-controller</postURL_s>
 	<phoneLabel_t>Phone</phoneLabel_t>
