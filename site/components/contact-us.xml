@@ -41,7 +41,7 @@
 	<contactInfoLabel>Contact Info.</contactInfoLabel>
 	<openHoursLabel>Open Hours</openHoursLabel>
 	<socialLinksTitle>Follow Us</socialLinksTitle>
-	<postURL>/email-controller</postURL>
+	<postURL_s>/email-controller</postURL_s>
 	<phoneLabel>Phone</phoneLabel>
 	<phoneNumber>090-080-0760</phoneNumber>
 	<locationLabel>Our Location</locationLabel>

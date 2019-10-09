@@ -7,7 +7,7 @@
                 <hr>
             </div>
             <div class="col-md-offset-1 col-md-10 col-sm-12 wow fadeIn" data-wow-delay="0.9s">
-                <form action="${contentModel.postURL}" method="post" id="contact-us-form" name="contact-us-form">
+                <form action="${contentModel.postURL_s}" method="post" id="contact-us-form" name="contact-us-form">
                     <div class="col-md-6 col-sm-6">
                         <input name="name" type="text" class="form-control" id="name" placeholder="${contentModel.nameLabel_t}" value="${''}" required>
                     </div>
