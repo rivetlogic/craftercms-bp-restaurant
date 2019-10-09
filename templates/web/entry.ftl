@@ -3,7 +3,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>${contentModel.topSiteName}</title>
+        <title>${contentModel.topSiteName_t}</title>
         
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -28,7 +28,7 @@
                         <span class="icon icon-bar"></span>
                         <span class="icon icon-bar"></span>
                     </button>
-                    <a href="/" class="navbar-brand">${contentModel.topSiteName}</a>
+                    <a href="/" class="navbar-brand">${contentModel.topSiteName_t}</a>
                 </div>
                 <@renderComponent component = contentModel.menuBar.item />
             </div>

@@ -49,5 +49,5 @@
 	<include>/site/components/footer.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></footer>
-	<topSiteName>Zentro Inc.</topSiteName>
+	<topSiteName_t>Zentro Inc.</topSiteName_t>
 </page>
