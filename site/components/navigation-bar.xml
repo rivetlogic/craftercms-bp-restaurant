@@ -6,19 +6,19 @@
 	<objectId>52583db4-8601-0b11-222e-1832be93be57</objectId>
 	<navigationItems_o>	<item>	<navigationItem>HOME</navigationItem>
 	<type>home</type>
-	<section>home</section>
+	<section_s>home</section_s>
 	</item>	<item>	<navigationItem>GALLERY</navigationItem>
 	<type>gallery</type>
-	<section>gallery</section>
+	<section_s>gallery</section_s>
 	</item>	<item>	<navigationItem>MENU</navigationItem>
 	<type>menu</type>
-	<section>menu</section>
+	<section_s>menu</section_s>
 	</item>	<item>	<navigationItem>TEAM</navigationItem>
 	<type>team</type>
-	<section>team</section>
+	<section_s>team</section_s>
 	</item>	<item>	<navigationItem>CONTACT</navigationItem>
 	<type>contact</type>
-	<section>contact</section>
+	<section_s>contact</section_s>
 	</item></navigationItems_o>
 	<file-name>navigation-bar.xml</file-name>
 	<folder-name/>

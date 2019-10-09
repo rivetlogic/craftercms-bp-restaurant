@@ -116,7 +116,7 @@
                <fields>
                   <field>
                      <type>dropdown</type>
-                     <id>section</id>
+                     <id>section_s</id>
                      <iceId/>
                      <title>Section</title>
                      <description/>
