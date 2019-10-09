@@ -198,7 +198,7 @@
    <datasources>
       <datasource>
          <type>key-value-list</type>
-         <id>navigationItems_o</id>
+         <id>navigationItems</id>
          <title>Navigation Items</title>
          <interface>item</interface>
          <properties>
