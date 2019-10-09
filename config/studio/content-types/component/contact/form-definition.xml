@@ -757,7 +757,7 @@
                   </field>
                   <field>
                      <type>date-time</type>
-                     <id>closedAt</id>
+                     <id>closedAt_dt</id>
                      <iceId/>
                      <title>Closed At</title>
                      <description>xx:xx:xx am </description>

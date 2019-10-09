@@ -18,17 +18,17 @@
 	<buttonLabel_t>send</buttonLabel_t>
 	<openDays_o>	<item>	<openDay_t>Sunday</openDay_t>
 	<openAt_dt>2017-09-11T10:30:00.000Z</openAt_dt>
-	<closedAt>2017-09-11T22:00:00.000Z</closedAt>
+	<closedAt_dt>2017-09-11T22:00:00.000Z</closedAt_dt>
 	<openAt_tz>CST5CST</openAt_tz>
 	<closedAt_tz>CST5CST</closedAt_tz>
 	</item>	<item>	<openDay_t>Mon - Fri</openDay_t>
 	<openAt_dt>2017-09-11T09:00:00.000Z</openAt_dt>
-	<closedAt>2017-09-11T20:00:00.000Z</closedAt>
+	<closedAt_dt>2017-09-11T20:00:00.000Z</closedAt_dt>
 	<openAt_tz>CST5CST</openAt_tz>
 	<closedAt_tz>CST5CST</closedAt_tz>
 	</item>	<item>	<openDay_t>Saturday</openDay_t>
 	<openAt_dt>2017-09-11T11:30:00.000Z</openAt_dt>
-	<closedAt>2017-09-11T22:30:00.000Z</closedAt>
+	<closedAt_dt>2017-09-11T22:30:00.000Z</closedAt_dt>
 	<openAt_tz>CST5CST</openAt_tz>
 	<closedAt_tz>CST5CST</closedAt_tz>
 	</item></openDays_o>

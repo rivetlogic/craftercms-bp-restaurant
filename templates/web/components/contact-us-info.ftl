@@ -27,9 +27,9 @@
                     <p>
                         ${item.openDay_t}
                         <span>
-                            ${item.openAt?datetime.iso?time?string.short}
+                            ${item.openAt_dt?time?string.short}
                              - 
-                            ${item.openAt?datetime.iso?time?string.short}
+                            ${item.closedAt_dt?time?string.short}
                         </span>
                     </p>
                 </#list>
