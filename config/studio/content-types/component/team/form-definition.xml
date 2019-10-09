@@ -245,7 +245,7 @@
                   </field>
                   <field>
                      <type>image-picker</type>
-                     <id>employeePhoto</id>
+                     <id>employeePhoto_s</id>
                      <iceId/>
                      <title>Employee Photo</title>
                      <description/>
