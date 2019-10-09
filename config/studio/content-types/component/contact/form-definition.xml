@@ -360,7 +360,7 @@
          <fields>
             <field>
                <type>input</type>
-               <id>contactInfoLabel</id>
+               <id>contactInfoLabel_t</id>
                <iceId>contactInfoData</iceId>
                <title>Contact Info Label</title>
                <description/>

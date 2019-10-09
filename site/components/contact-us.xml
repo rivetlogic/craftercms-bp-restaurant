@@ -38,7 +38,7 @@
 	</item>	<item>	<socialLinkType>dribbble</socialLinkType>
 	</item>	<item>	<socialLinkType>github</socialLinkType>
 	</item></contactSocialLinks>
-	<contactInfoLabel>Contact Info.</contactInfoLabel>
+	<contactInfoLabel_t>Contact Info.</contactInfoLabel_t>
 	<openHoursLabel>Open Hours</openHoursLabel>
 	<socialLinksTitle>Follow Us</socialLinksTitle>
 	<postURL_s>/email-controller</postURL_s>

@@ -4,7 +4,7 @@
         <div class="row">
         
             <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.6s" <@studio.componentAttr path=contentModel.storeUrl ice=true iceGroup="contactInfoData"/>>
-                <h2 class="heading">${contentModel.contactInfoLabel}</h2>
+                <h2 class="heading">${contentModel.contactInfoLabel_t}</h2>
                 <div class="ph">
                     <p>
                         <i class="fa fa-phone" id="fa-icono"></i> 
