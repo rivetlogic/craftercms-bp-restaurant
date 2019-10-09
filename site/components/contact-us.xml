@@ -43,7 +43,7 @@
 	<socialLinksTitle>Follow Us</socialLinksTitle>
 	<postURL_s>/email-controller</postURL_s>
 	<phoneLabel_t>Phone</phoneLabel_t>
-	<phoneNumber>090-080-0760</phoneNumber>
+	<phoneNumber_s>090-080-0760</phoneNumber_s>
 	<locationLabel>Our Location</locationLabel>
 	<location>120 Duis aute irure, California, USA</location>
 </component>

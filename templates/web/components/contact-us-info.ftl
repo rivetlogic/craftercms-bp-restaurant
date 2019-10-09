@@ -10,7 +10,7 @@
                         <i class="fa fa-phone" id="fa-icono"></i> 
                         ${contentModel.phoneLabel_t}
                     </p>
-                    <h4>${contentModel.phoneNumber}</h4>
+                    <h4>${contentModel.phoneNumber_s}</h4>
                 </div>
                 <div class="address">
                     <p>

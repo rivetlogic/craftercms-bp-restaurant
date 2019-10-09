@@ -446,7 +446,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>phoneNumber</id>
+               <id>phoneNumber_s</id>
                <iceId>contactInfoData</iceId>
                <title>Phone Number</title>
                <description/>
