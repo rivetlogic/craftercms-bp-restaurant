@@ -95,7 +95,7 @@
          <fields>
             <field>
                <type>input</type>
-               <id>footerTitle</id>
+               <id>footerTitle_t</id>
                <iceId>footerData</iceId>
                <title>Title</title>
                <description/>
@@ -138,7 +138,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>copyright</id>
+               <id>copyright_t</id>
                <iceId>footerData</iceId>
                <title>Copyright</title>
                <description/>
