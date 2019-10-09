@@ -931,7 +931,7 @@
                   </field>
                   <field>
                      <type>input</type>
-                     <id>socialLinksUrl</id>
+                     <id>socialLinksUrl_s</id>
                      <iceId/>
                      <title>URL</title>
                      <description/>
