@@ -149,7 +149,7 @@
                   </field>
                   <field>
                      <type>input</type>
-                     <id>navigationItem</id>
+                     <id>navigationItem_t</id>
                      <iceId/>
                      <title>Navigation Item</title>
                      <description/>

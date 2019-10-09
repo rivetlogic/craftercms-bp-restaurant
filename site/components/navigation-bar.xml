@@ -4,19 +4,19 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>5258</objectGroupId>
 	<objectId>52583db4-8601-0b11-222e-1832be93be57</objectId>
-	<navigationItems_o>	<item>	<navigationItem>HOME</navigationItem>
+	<navigationItems_o>	<item>	<navigationItem_t>HOME</navigationItem_t>
 	<type>home</type>
 	<section_s>home</section_s>
-	</item>	<item>	<navigationItem>GALLERY</navigationItem>
+	</item>	<item>	<navigationItem_t>GALLERY</navigationItem_t>
 	<type>gallery</type>
 	<section_s>gallery</section_s>
-	</item>	<item>	<navigationItem>MENU</navigationItem>
+	</item>	<item>	<navigationItem_t>MENU</navigationItem_t>
 	<type>menu</type>
 	<section_s>menu</section_s>
-	</item>	<item>	<navigationItem>TEAM</navigationItem>
+	</item>	<item>	<navigationItem_t>TEAM</navigationItem_t>
 	<type>team</type>
 	<section_s>team</section_s>
-	</item>	<item>	<navigationItem>CONTACT</navigationItem>
+	</item>	<item>	<navigationItem_t>CONTACT</navigationItem_t>
 	<type>contact</type>
 	<section_s>contact</section_s>
 	</item></navigationItems_o>
