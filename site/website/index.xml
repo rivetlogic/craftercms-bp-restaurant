@@ -18,11 +18,11 @@
 	<slogan>The Best Food</slogan>
 	<buttonLabel_t>See More</buttonLabel_t>
 	<disabled>false</disabled>
-	<dishGallery>	<item>	<key>/site/components/dish-gallery.xml</key>
+	<dishGallery_o>	<item>	<key>/site/components/dish-gallery.xml</key>
 	<value>Food Gallery</value>
 	<include>/site/components/dish-gallery.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item></dishGallery>
+	</item></dishGallery_o>
 	<foodMenu>	<item>	<key>/site/components/food-menu.xml</key>
 	<value>Food Menu</value>
 	<include>/site/components/food-menu.xml</include>

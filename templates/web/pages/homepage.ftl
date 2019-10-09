@@ -51,7 +51,7 @@
         </section>
 
         <!-- Gallery section -->
-        <@renderComponent component = contentModel.dishGallery.item />
+        <@renderComponent component = contentModel.dishGallery_o.item />
 
         <!-- Menu section -->
         <@renderComponent component = contentModel.foodMenu.item />

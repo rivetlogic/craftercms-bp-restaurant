@@ -132,7 +132,7 @@
             </field>
             <field>
                <type>node-selector</type>
-               <id>dishGallery</id>
+               <id>dishGallery_o</id>
                <iceId/>
                <title>Dish Gallery</title>
                <description/>
