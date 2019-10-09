@@ -646,7 +646,7 @@
                <fields>
                   <field>
                      <type>input</type>
-                     <id>openDay</id>
+                     <id>openDay_t</id>
                      <iceId/>
                      <title>Open Day</title>
                      <description/>

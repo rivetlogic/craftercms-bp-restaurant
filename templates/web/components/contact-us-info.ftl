@@ -25,7 +25,7 @@
             	<h2 class="heading">${contentModel.openHoursLabel_t}</h2>
                 <#list contentModel.openDays_o.item as item>
                     <p>
-                        ${item.openDay}
+                        ${item.openDay_t}
                         <span>
                             ${item.openAt?datetime.iso?time?string.short}
                              - 
