@@ -23,11 +23,11 @@
 	<include>/site/components/dish-gallery.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></dishGallery_o>
-	<foodMenu>	<item>	<key>/site/components/food-menu.xml</key>
+	<foodMenu_o>	<item>	<key>/site/components/food-menu.xml</key>
 	<value>Food Menu</value>
 	<include>/site/components/food-menu.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item></foodMenu>
+	</item></foodMenu_o>
 	<teamMembers>	<item>	<key>/site/components/team.xml</key>
 	<value>Team</value>
 	<include>/site/components/team.xml</include>

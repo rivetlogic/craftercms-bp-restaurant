@@ -180,7 +180,7 @@
             </field>
             <field>
                <type>node-selector</type>
-               <id>foodMenu</id>
+               <id>foodMenu_o</id>
                <iceId/>
                <title>Food Menu</title>
                <description/>

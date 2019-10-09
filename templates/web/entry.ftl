@@ -53,7 +53,7 @@
         <@renderComponent component = contentModel.dishGallery_o.item />
 
         <!-- Menu section -->
-        <@renderComponent component = contentModel.foodMenu.item />
+        <@renderComponent component = contentModel.foodMenu_o.item />
 
         <!-- Team section -->
         <@renderComponent component = contentModel.teamMembers.item />
