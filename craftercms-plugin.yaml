@@ -7,18 +7,18 @@ descriptorVersion: 2
 plugin:
   type: blueprint
   id: com.rivetlogic.craftercms.blueprint.restaurant
-  name: "Restaurant"
+  name: Restaurant
   tags:
     - blueprint
     - restaurant
   version:
     major: 1
     minor: 0
-    patch: 0
+    patch: 1
   description: |
     Restaurant is a single page Crafter CMS blueprint
   website:
-    name: "Restaurant"
+    name: Restaurant
     url: https://github.com/rivetlogic/craftercms-bp-restaurant.git
   media:
     screenshots:
