@@ -16,7 +16,7 @@ plugin:
     minor: 0
     patch: 0
   description: |
-    Restaurant is a single page Crafter 3 blueprint
+    Restaurant is a single page Crafter CMS blueprint
   website:
     name: "Restaurant"
     url: https://github.com/rivetlogic/craftercms-bp-restaurant.git
@@ -43,8 +43,8 @@ plugin:
     id: c3d2a5444e6a24b5e0481d6ba87901d0b02716c8
     date: 2019-01-23T00:00:00Z
   license:
-    name: GNU
-    url: https://opensource.org/licenses/GPL-3.0
+    name: MIT
+    url: https://opensource.org/licenses/MIT
   crafterCmsVersions:
     - major: 3
       minor: 1
