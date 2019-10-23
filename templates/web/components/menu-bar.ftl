@@ -9,4 +9,3 @@
     	</#list>
   	</ul>
 </div>
-<@studio.toolSupport/>

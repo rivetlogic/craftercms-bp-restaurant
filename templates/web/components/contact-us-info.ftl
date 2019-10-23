@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
         
-            <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.6s" <@studio.componentAttr path=contentModel.storeUrl ice=true iceGroup="contactInfoData"/>>
+            <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.6s" <@studio.iceAttr component=contentModel iceGroup="contactInfoData"/>>
                 <h2 class="heading">${contentModel.contactInfoLabel_t}</h2>
                 <div class="ph">
                     <p>
@@ -21,7 +21,7 @@
                 </div>
             </div>
             
-            <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.6s" <@studio.componentAttr path=contentModel.storeUrl ice=true iceGroup="openHoursData"/>>
+            <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.6s" <@studio.iceAttr component=contentModel iceGroup="openHoursData"/>>
             	<h2 class="heading">${contentModel.openHoursLabel_t}</h2>
                 <#list contentModel.openDays_o.item as item>
                     <p>
@@ -35,7 +35,7 @@
                 </#list>
             </div>
             
-            <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.6s" <@studio.componentAttr path=contentModel.storeUrl ice=true iceGroup="socialLinksData"/>>
+            <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.6s" <@studio.iceAttr component=contentModel iceGroup="socialLinksData"/>>
                 <h2 class="heading">${contentModel.socialLinksTitle_t}</h2>
                 <ul class="social-icon">
                     <#list contentModel.contactSocialLinks_o.item as item>
@@ -49,4 +49,3 @@
         </div>
     </div>
 </footer>
-<@studio.toolSupport />

@@ -2,7 +2,7 @@
 <#include "/templates/web/functions/utils-functions.ftl">
 <section id="menu" class="parallax-section">
     <div class="container">
-        <div class="row" <@studio.componentAttr path=contentModel.storeUrl ice=true iceGroup="foodMenu"/>>
+        <div class="row" <@studio.iceAttr component=contentModel iceGroup="foodMenu"/>>
             <div class="col-md-offset-2 col-md-8 col-sm-12 text-center">
                 <h1 class="heading">${contentModel.title_t}</h1>
                 <hr>
@@ -17,4 +17,3 @@
         </div>
     </div>
 </section>
-<@studio.toolSupport />
