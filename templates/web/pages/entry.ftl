@@ -49,21 +49,9 @@
             </div>
         </section>
 
-        <!-- Gallery section -->
-        <@renderComponent component = contentModel.dishGallery_o.item />
-
-        <!-- Menu section -->
-        <@renderComponent component = contentModel.foodMenu_o.item />
-
-        <!-- Team section -->
-        <@renderComponent component = contentModel.teamMembers_o.item />
-
-		<!-- Contact us section -->
-		<@renderComponent component = contentModel.contactUs_o.item />
-
-        <!-- Copyright section -->
-        <@renderComponent component = contentModel.footer_o.item />
-        
+        <#list (contentModel.sections_o.item)![] as section>
+            <@renderComponent parent=contentModel component=section/>
+        </#list>
 
         <!-- Javascript Files -->
         <#include "/templates/web/static-includes/js-libraries.ftl" />

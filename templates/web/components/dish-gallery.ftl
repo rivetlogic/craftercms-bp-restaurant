@@ -1,6 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <section id="gallery" class="parallax-section">
-    <div class="container" <@studio.componentAttr path=contentModel.storeUrl ice=true iceGroup="dishGallery"/>>
+    <div class="container" <@studio.iceAttr component=contentModel iceGroup="dishGallery"/>>
         <div class="row">
             <div class="col-md-offset-2 col-md-8 col-sm-12 text-center">
                 <h1 class="heading">${contentModel.title_t}</h1>
@@ -42,4 +42,3 @@
         </div>
     </div>
 </section>
-<@studio.toolSupport />

@@ -1,7 +1,7 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <section id="contact" class="parallax-section">
     <div class="container">
-        <div class="row" <@studio.componentAttr path=contentModel.storeUrl ice=true iceGroup="contactUsData"/>>
+        <div class="row" <@studio.iceAttr component=contentModel iceGroup="contactUsData"/>>
             <div class="col-md-offset-1 col-md-10 col-sm-12 text-center">
                 <h1 class="heading">${contentModel.title_t}</h1>
                 <hr>
@@ -26,4 +26,3 @@
         </div>
     </div>
 </section>
-<@studio.toolSupport />

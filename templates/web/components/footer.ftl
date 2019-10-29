@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12 col-sm-12">
                 <h3>${contentModel.footerTitle_t}</h3>
-                <p <@studio.componentAttr path=contentModel.storeUrl ice=true iceGroup="footerData"/> >
+                <p <@studio.iceAttr component=contentModel iceGroup="footerData"/> >
                 ${contentModel.copyright_t}
                 <#if contentModel.showCredits_b>
                 |
@@ -16,4 +16,3 @@
         </div>
     </div>
 </section>
-<@studio.toolSupport />
