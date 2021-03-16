@@ -1,6 +1,6 @@
 <#import "/templates/system/common/ice.ftl" as studio />
 
-<@studio.componentRootTag $tag="footer" class="parallax-section">
+<footer class="parallax-section">
     <div class="container">
         <div class="row">
 
@@ -60,4 +60,4 @@
 
         </div>
     </div>
-</@studio.componentRootTag>
+</footer>

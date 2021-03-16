@@ -1,7 +1,7 @@
 <#import "/templates/system/common/ice.ftl" as studio />
 <#include "/templates/web/functions/utils-functions.ftl">
 
-<@studio.componentRootTag $tag="section" id="menu" class="parallax-section">
+<section id="menu" class="parallax-section">
     <div class="container">
         <div class="row">
             <div class="col-md-offset-2 col-md-8 col-sm-12 text-center">
@@ -19,4 +19,4 @@
             </#list>
         </div>
     </div>
-</@studio.componentRootTag>
+</section>
