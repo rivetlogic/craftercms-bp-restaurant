@@ -9,27 +9,30 @@
                 </@studio.h1>
                 <hr>
             </div>
-            <#list contentModel.teamMembers_o.item as member>
-                <#assign index = member?index>
 
-                <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="0.3s">
-                    <@studio.img
+            <@studio.tag $field="teamMembers_o">
+                <#list contentModel.teamMembers_o.item as member>
+                    <#assign index = member?index>
+
+                    <@studio.tag $field="teamMembers_o" $index=index class="col-md-4 col-sm-4 wow fadeInUp" $attrs={ 'data-wow-delay': '0.3s' }>
+                        <@studio.img
                         $field="teamMembers_o.employeePhoto_s,teamMembers_o.employeeName_t"
                         $index=index
                         src=(member.employeePhoto_s)
                         alt=(member.employeeName_t)
                         class="img-responsive center-block"
-                    />
+                        />
 
-                    <@studio.h4 $field="teamMembers_o.employeeName_t" $index=index>
-                        ${member.employeeName_t!""}
-                    </@studio.h4>
+                        <@studio.h4 $field="teamMembers_o.employeeName_t" $index=index>
+                            ${member.employeeName_t!""}
+                        </@studio.h4>
 
-                    <@studio.h4 $field="teamMembers_o.jobTitle_t" $index=index>
-                        ${member.jobTitle_t!""}
-                    </@studio.h4>
-                </div>
-            </#list>
+                        <@studio.h4 $field="teamMembers_o.jobTitle_t" $index=index>
+                            ${member.jobTitle_t!""}
+                        </@studio.h4>
+                    </@studio.tag>
+                </#list>
+            </@studio.tag>
         </div>
     </div>
 </@studio.componentRootTag>
