@@ -59,12 +59,7 @@
             </div>
         </@studio.componentRootTag>
 
-        <#list (contentModel.sections_o.item)![] as section>
-            <#assign index = section?index />
-            <@studio.tag $field="sections_o" $index=index>
-                <@renderComponent parent=contentModel component=section/>
-            </@studio.tag>
-        </#list>
+        <@studio.renderComponentCollection $field="sections_o"/>
 
         <!-- Javascript Files -->
         <#include "/templates/web/static-includes/js-libraries.ftl" />
