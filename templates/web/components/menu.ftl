@@ -10,13 +10,17 @@
                 </@studio.h1>
                 <hr>
             </div>
-
-            <#list contentModel.menuList_o.item as dishItem>
-                <div class="col-md-6 col-sm-6">
-                    <h4> ${dishItem.dishName_t?trim} ${dots(dishItem.dishName_t?trim, dishItem.dishPrice_s?trim)?trim} <span>${contentModel.dishPriceCurrency_s}${dishItem.dishPrice_s?trim}</span></h4>
-                    <h5>${dishItem.dishIngredients_t?trim}</h5>
-                </div>
-            </#list>
         </div>
+            <@studio.renderRepeatCollection
+                $field="menuList_o"
+                $containerTag="div"
+                $containerAttributes={'class': 'row'}
+                $itemTag="div"
+                $itemAttributes={'class': 'col-md-6 col-sm-6'};
+                dishItem, index
+            >
+                <h4> ${dishItem.dishName_t?trim} ${dots(dishItem.dishName_t?trim, dishItem.dishPrice_s?trim)?trim} <span>${contentModel.dishPriceCurrency_s}${dishItem.dishPrice_s?trim}</span></h4>
+                <h5>${dishItem.dishIngredients_t?trim}</h5>
+            </@studio.renderRepeatCollection>
     </div>
 </section>
