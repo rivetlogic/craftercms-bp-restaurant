@@ -503,6 +503,11 @@
 							<value>/static-assets/images/</value>
 								<type>undefined</type>
 						</property>
+						<property>
+							<name>useSearch</name>
+							<value>false</value>
+								<type>boolean</type>
+						</property>
 					</properties>
 				</datasource>
 				<datasource>
@@ -543,7 +548,7 @@
 						</property>
 						<property>
 							<name>contentTypes</name>
-							<value>/component/menu,/component/contact,/component/dish-gallery,/component/footer,/component/menu-bar,/component/team</value>
+							<value>/component/menu,/component/contact,/component/dish-gallery,/component/footer,/component/team</value>
 								<type>contentTypes</type>
 						</property>
 						<property>
