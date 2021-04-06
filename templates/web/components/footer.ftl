@@ -1,18 +1,27 @@
-<#import "/templates/system/common/cstudio-support.ftl" as studio />
+<#import "/templates/system/common/ice.ftl" as studio />
+
 <section id="copyright">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12">
-                <h3>${contentModel.footerTitle_t}</h3>
-                <p <@studio.iceAttr component=contentModel iceGroup="footerData"/> >
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12">
+          <@studio.h3 $field="footerTitle_t">${contentModel.footerTitle_t}</@studio.h3>
+        <p>
+            <@studio.span $field="copyright_t">
                 ${contentModel.copyright_t}
-                <#if contentModel.showCredits_b>
-                |
-                ${contentModel.creditsLabel_t}
-                <a rel="nofollow" href="${contentModel.linkURL_s}" target="_parent">${contentModel.linkLabel_t}</a>
-                </#if>
-                </p>
-            </div>
-        </div>
+            </@studio.span>
+            <#if contentModel.showCredits_b>
+              |
+                <@studio.span $field="creditsLabel_t">
+                    ${contentModel.creditsLabel_t}
+                </@studio.span>
+              <a rel="nofollow" href="${contentModel.linkURL_s}" target="_parent">
+                  <@studio.span $field="linkLabel_t">
+                      ${contentModel.linkLabel_t}
+                  </@studio.span>
+              </a>
+            </#if>
+        </p>
+      </div>
     </div>
+  </div>
 </section>

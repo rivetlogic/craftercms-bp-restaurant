@@ -131,6 +131,10 @@ hr {
     letter-spacing: 1px;
 }
 
+.navbar-fixed-top {
+    z-index: 1010;
+}
+
 /* home section */
 #home {
     /*background: url('../images/home-bg.jpg') 50% 0 repeat-y fixed;*/

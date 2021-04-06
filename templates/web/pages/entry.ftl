@@ -1,4 +1,5 @@
-<#import "/templates/system/common/cstudio-support.ftl" as studio />
+<#import "/templates/system/common/ice.ftl" as studio />
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -37,25 +38,32 @@
 
 
         <!-- Home section -->
-        <section id="home" class="parallax-section" <@studio.iceAttr iceGroup="homepageGroup"/> style="background-image:url(${contentModel.homepageImage_s})">
+
+        <@studio.componentRootTag $tag="section" id="home" class="parallax-section" style="background-image:url(${contentModel.homepageImage_s})">
             <div class="container">
-                <div class="row"> 
+                <div class="row">
                     <div class="col-md-12 col-sm-12">
-                        <h1>${contentModel.title_t}</h1>
-                        <h2>${contentModel.slogan_t}</h2>
-                        <a href="#gallery" class="smoothScroll btn btn-default">${contentModel.buttonLabel_t}</a>
+                        <@studio.h1 $field="title_t">
+                            ${contentModel.title_t}
+                        </@studio.h1>
+                        <@studio.h2 $field="slogan_t">
+                            ${contentModel.slogan_t}
+                        </@studio.h2>
+                        <a href="#gallery" class="smoothScroll btn btn-default">
+                            <@studio.span $field="buttonLabel_t">
+                                ${contentModel.buttonLabel_t}
+                            </@studio.span>
+                        </a>
                     </div>
                 </div>
             </div>
-        </section>
+        </@studio.componentRootTag>
 
-        <#list (contentModel.sections_o.item)![] as section>
-            <@renderComponent parent=contentModel component=section/>
-        </#list>
+        <@studio.renderComponentCollection $field="sections_o"/>
 
         <!-- Javascript Files -->
         <#include "/templates/web/static-includes/js-libraries.ftl" />
-        
-        <@studio.toolSupport/>
+
+        <@studio.initPageBuilder/>
     </body>
 </html>
