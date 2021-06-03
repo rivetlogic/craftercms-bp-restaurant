@@ -100,10 +100,9 @@
                                 <configuration>
                                     <title id="GlobalMenu.EncryptionToolEntryLabel" defaultMessage="Encryption Tool"/>
                                     <icon id="@material-ui/icons/LockOutlined" />
-                  <widget id="craftercms.components.SiteEncryptTool">
+                                    <widget id="craftercms.components.SiteEncryptTool">
                                         <configuration>
-                      <logType>preview</logType>
-                      <embedded>true</embedded>
+                                            <embedded>true</embedded>
                                         </configuration>
                                     </widget>
                                 </configuration>
@@ -112,10 +111,9 @@
                                 <configuration>
                                     <title id="words.configuration" defaultMessage="Configuration"/>
                                     <icon id="@material-ui/icons/SettingsApplicationsOutlined"/>
-                  <widget id="craftercms.components.SiteConfigurationManagement">
+                                    <widget id="craftercms.components.SiteConfigurationManagement">
                                         <configuration>
-                      <logType>preview</logType>
-                      <embedded>true</embedded>
+                                            <embedded>true</embedded>
                                         </configuration>
                                     </widget>
                                 </configuration>
@@ -124,10 +122,9 @@
                                 <configuration>
                                     <title id="GlobalMenu.AuditEntryLabel" defaultMessage="Audit"/>
                                     <icon id="@material-ui/icons/SubjectRounded" />
-                  <widget id="craftercms.components.SiteAuditManagement">
+                                    <widget id="craftercms.components.SiteAuditManagement">
                                         <configuration>
-                      <logType>preview</logType>
-                      <embedded>true</embedded>
+                                            <embedded>true</embedded>
                                         </configuration>
                                     </widget>
                                 </configuration>
@@ -136,10 +133,9 @@
                                 <configuration>
                                     <title id="workflowStates.title" defaultMessage="Workflow States"/>
                                     <icon id="@material-ui/icons/SettingsOutlined"/>
-                  <widget id="craftercms.components.WorkflowStates">
+                                    <widget id="craftercms.components.WorkflowStates">
                                         <configuration>
-                      <logType>preview</logType>
-                      <embedded>true</embedded>
+                                            <embedded>true</embedded>
                                         </configuration>
                                     </widget>
                                 </configuration>
@@ -148,10 +144,10 @@
                                 <configuration>
                                     <title id="GlobalMenu.LogConsoleEntryLabel" defaultMessage="Log Console"/>
                                     <icon id="@material-ui/icons/FormatAlignCenterRounded"/>
-                  <widget id="craftercms.components.LogConsole">
+                                    <widget id="craftercms.components.LogConsole">
                                         <configuration>
-                      <logType>preview</logType>
-                      <embedded>true</embedded>
+                                            <logType>preview</logType>
+                                            <embedded>true</embedded>
                                         </configuration>
                                     </widget>
                                 </configuration>
