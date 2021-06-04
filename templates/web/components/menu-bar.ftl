@@ -1,4 +1,4 @@
-<#import "/templates/system/common/ice.ftl" as studio />
+<#import "/templates/system/common/crafter.ftl" as crafter />
 <!-- navigation section_s -->
 <div class="collapse navbar-collapse">
   	<ul class="nav navbar-nav navbar-right">

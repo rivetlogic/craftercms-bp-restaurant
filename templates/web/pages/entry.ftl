@@ -1,4 +1,4 @@
-<#import "/templates/system/common/ice.ftl" as studio />
+<#import "/templates/system/common/crafter.ftl" as crafter />
 
 <!DOCTYPE html>
 <html lang="en">
@@ -13,8 +13,10 @@
         
         <!-- CSS Files -->
         <#include "/templates/web/static-includes/css-libraries.ftl" />
+        <@crafter.head/>
     </head>
     <body>
+        <@crafter.body_top/>
         <!-- Preloader section -->
         <section class="preloader">
             <div class="sk-spinner sk-spinner-pulse"></div>
@@ -39,31 +41,31 @@
 
         <!-- Home section -->
 
-        <@studio.componentRootTag $tag="section" id="home" class="parallax-section" style="background-image:url(${contentModel.homepageImage_s})">
+        <@crafter.componentRootTag $tag="section" id="home" class="parallax-section" style="background-image:url(${contentModel.homepageImage_s})">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12">
-                        <@studio.h1 $field="title_t">
+                        <@crafter.h1 $field="title_t">
                             ${contentModel.title_t}
-                        </@studio.h1>
-                        <@studio.h2 $field="slogan_t">
+                        </@crafter.h1>
+                        <@crafter.h2 $field="slogan_t">
                             ${contentModel.slogan_t}
-                        </@studio.h2>
+                        </@crafter.h2>
                         <a href="#gallery" class="smoothScroll btn btn-default">
-                            <@studio.span $field="buttonLabel_t">
+                            <@crafter.span $field="buttonLabel_t">
                                 ${contentModel.buttonLabel_t}
-                            </@studio.span>
+                            </@crafter.span>
                         </a>
                     </div>
                 </div>
             </div>
-        </@studio.componentRootTag>
+        </@crafter.componentRootTag>
 
-        <@studio.renderComponentCollection $field="sections_o"/>
+        <@crafter.renderComponentCollection $field="sections_o"/>
 
         <!-- Javascript Files -->
         <#include "/templates/web/static-includes/js-libraries.ftl" />
 
-        <@studio.initPageBuilder/>
+        <@crafter.body_bottom/>
     </body>
 </html>

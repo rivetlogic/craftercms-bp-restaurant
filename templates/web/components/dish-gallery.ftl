@@ -1,12 +1,12 @@
-<#import "/templates/system/common/ice.ftl" as studio />
+<#import "/templates/system/common/crafter.ftl" as crafter />
 
 <section id="gallery" class="parallax-section">
   <div class="container">
     <div class="row">
       <div class="col-md-offset-2 col-md-8 col-sm-12 text-center">
-          <@studio.h1 $field="title_t" class="heading">
+          <@crafter.h1 $field="title_t" class="heading">
               ${contentModel.title_t}
-          </@studio.h1>
+          </@crafter.h1>
         <hr>
       </div>
     </div>
@@ -27,16 +27,16 @@
           </#if>
 
           <a class="image-container" href="${dishItem.dishImage_s}" data-lightbox-gallery="zenda-gallery">
-            <@studio.img $field="dishList_o.dishImage_s" $index=index src=(dishItem.dishImage_s) alt="gallery img" />
+            <@crafter.img $field="dishList_o.dishImage_s" $index=index src=(dishItem.dishImage_s) alt="gallery img" />
           </a>
 
           <div class="food-element-description">
-            <@studio.h3 $field="dishList_o.dishName_t" $index=index>
+            <@crafter.h3 $field="dishList_o.dishName_t" $index=index>
                 ${dishItem.dishName_t}
-            </@studio.h3>
-            <@studio.span $field="dishList_o.dishIngredients_t" $index=index>
+            </@crafter.h3>
+            <@crafter.span $field="dishList_o.dishIngredients_t" $index=index>
                 ${dishItem.dishIngredients_t}
-            </@studio.span>
+            </@crafter.span>
           </div>
 
           <#if dishItem?index == (1 + breaker) || dishItem?index == (2 + breaker) || dishItem?index == (4 + breaker) >
