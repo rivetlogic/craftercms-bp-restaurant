@@ -11,7 +11,7 @@
                 <hr>
             </div>
         </div>
-            <@crafter.renderRepeatCollection
+            <@crafter.renderRepeatGroup
                 $field="menuList_o"
                 $containerTag="div"
                 $containerAttributes={'class': 'row'}
@@ -21,6 +21,6 @@
             >
                 <h4> ${dishItem.dishName_t?trim} ${dots(dishItem.dishName_t?trim, dishItem.dishPrice_s?trim)?trim} <span>${contentModel.dishPriceCurrency_s}${dishItem.dishPrice_s?trim}</span></h4>
                 <h5>${dishItem.dishIngredients_t?trim}</h5>
-            </@crafter.renderRepeatCollection>
+            </@crafter.renderRepeatGroup>
     </div>
 </section>
