@@ -5,12 +5,12 @@
     <head>
         <meta charset="utf-8" />
         <title>${contentModel.topSiteName_t}</title>
-        
+
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="keywords" content="" />
         <meta name="description" content="" />
-        
+
         <!-- CSS Files -->
         <#include "/templates/web/static-includes/css-libraries.ftl" />
         <@crafter.head/>
@@ -35,13 +35,13 @@
                 </div>
                 <@renderComponent component = contentModel.menuBar_o.item />
             </div>
-        </section>        
-        
+        </section>
+
 
 
         <!-- Home section -->
 
-        <@crafter.componentRootTag $tag="section" id="home" class="parallax-section" style="background-image:url(${contentModel.homepageImage_s})">
+        <@crafter.section id="home" class="parallax-section" style="background-image:url(${contentModel.homepageImage_s})">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-sm-12">
@@ -59,7 +59,7 @@
                     </div>
                 </div>
             </div>
-        </@crafter.componentRootTag>
+        </@crafter.section>
 
         <@crafter.renderComponentCollection $field="sections_o"/>
 
