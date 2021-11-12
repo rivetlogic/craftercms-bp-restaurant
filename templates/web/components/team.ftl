@@ -18,7 +18,7 @@
                 member, index
             >
                 <@crafter.img
-                    $field="teamMembers_o.employeePhoto_s,teamMembers_o.employeeName_t"
+                    $field="teamMembers_o.employeePhoto_s"
                     $index=index
                     src=(member.employeePhoto_s)
                     alt=(member.employeeName_t)
