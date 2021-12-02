@@ -10,7 +10,7 @@
                 <hr>
             </div>
 
-            <@crafter.renderRepeatCollection
+            <@crafter.renderRepeatGroup
                 $field="teamMembers_o"
                 $containerTag="div"
                 $itemTag="div"
@@ -18,7 +18,7 @@
                 member, index
             >
                 <@crafter.img
-                    $field="teamMembers_o.employeePhoto_s,teamMembers_o.employeeName_t"
+                    $field="teamMembers_o.employeePhoto_s"
                     $index=index
                     src=(member.employeePhoto_s)
                     alt=(member.employeeName_t)
@@ -32,7 +32,7 @@
                 <@crafter.h4 $field="teamMembers_o.jobTitle_t" $index=index>
                     ${member.jobTitle_t!""}
                 </@crafter.h4>
-            </@crafter.renderRepeatCollection>
+            </@crafter.renderRepeatGroup>
         </div>
     </div>
 </section>

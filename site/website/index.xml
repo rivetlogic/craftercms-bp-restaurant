@@ -14,8 +14,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2019-10-22T23:00:06.366Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-22T23:00:06.366Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-12T23:26:00.565Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-12T23:26:00.565Z</lastModifiedDate_dt>
 	<title_t>Zentro Restaurant</title_t>
 	<slogan_t>The Best Food</slogan_t>
 	<buttonLabel_t>See More</buttonLabel_t>
@@ -112,13 +112,13 @@
 	<no-template-required/>
 	<objectGroupId>3c13</objectGroupId>
 	<objectId>3c1323bc-815f-444c-eb9e-571817311067</objectId>
-	<teamMembers_o item-list="true">	<item>	<employeeName_t>Thanya</employeeName_t>
+	<teamMembers_o item-list="true">	<item>	<employeeName_t>Louis</employeeName_t>
 	<jobTitle_t>Main Chef</jobTitle_t>
 	<employeePhoto_s>/static-assets/images/team1.jpg</employeePhoto_s>
-	</item>	<item>	<employeeName_t>Lynda</employeeName_t>
+	</item>	<item>	<employeeName_t>Owen</employeeName_t>
 	<jobTitle_t>Pizza Specialist</jobTitle_t>
 	<employeePhoto_s>/static-assets/images/team2.jpg</employeePhoto_s>
-	</item>	<item>	<employeeName_t>Jenny Ko</employeeName_t>
+	</item>	<item>	<employeeName_t>Sophia</employeeName_t>
 	<jobTitle_t>New Baker</jobTitle_t>
 	<employeePhoto_s>/static-assets/images/team3.jpg</employeePhoto_s>
 	</item></teamMembers_o>
@@ -127,8 +127,9 @@
 	<title_t>Meet Zentro chefs</title_t>
 	<createdDate>2019-10-22T22:46:51.968Z</createdDate>
 	<createdDate_dt>2019-10-22T22:46:51.968Z</createdDate_dt>
-	<lastModifiedDate>2019-10-22T22:46:51.968Z</lastModifiedDate>
-	<lastModifiedDate_dt>2019-10-22T22:46:51.968Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-11-12T23:26:07.692Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-11-12T23:26:07.692Z</lastModifiedDate_dt>
+	<folder-name/>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>d5d7502f-4b35-be04-3340-fe6a1a426ca5</key>
 	<value>Contact Us</value>
