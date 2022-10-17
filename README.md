@@ -1,7 +1,7 @@
 # craftercms-bp-restaurant
-Crafter CMS Blueprint: Restaurant
+CrafterCMS Blueprint: Restaurant
 
-Restaurant is a single page Crafter 3 blueprint. It's based on the Zentro Bootstrap theme by [tooplate](http://www.tooplate.com/) available here http://www.tooplate.com/view/2076-zentro
+Restaurant is a single page CrafterCMS blueprint. It's based on the Zentro Bootstrap theme by [tooplate](http://www.tooplate.com/) available here http://www.tooplate.com/view/2076-zentro
 
 # Contact Us
 Contact Us sends no mails out of the box. You can specify what to do with the received form data by editing the controllers at
