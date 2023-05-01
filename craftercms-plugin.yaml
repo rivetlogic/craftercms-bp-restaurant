@@ -14,7 +14,7 @@ plugin:
   version:
     major: 1
     minor: 0
-    patch: 32
+    patch: 33
   description: |
     Restaurant is a single page Crafter CMS blueprint
   website:
@@ -127,6 +127,12 @@ plugin:
     - major: 3
       minor: 1
       patch: 30
+    - major: 3
+      minor: 1
+      patch: 31
+    - major: 3
+      minor: 1
+      patch: 32
   crafterCmsEditions:
     - community
     - enterprise
